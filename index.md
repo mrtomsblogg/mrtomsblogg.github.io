@@ -4,4 +4,4 @@ title: "Blog"
 
 ---
 
-Testing out; bio for Tom should go here. 
+Testing out; general site info should go here. Add markdown material with image for home page. 
