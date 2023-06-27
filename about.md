@@ -8,7 +8,7 @@ Little retreats in the backyard are popular in Sweden. In summer 2020 I imported
 
 You can find some biographical notes about me [here](https://web.uri.edu/gso/meet/h-thomas-rossby/).
 
-![Tom in his backyard](/assets/TomAboutpage.jpg){: width=150 height=100 style="float:right; padding:16px"} 
+![Tom in his backyard](/assets/TomAboutpage.jpg)
 
 <img src="/assets/TomAboutpage.jpg" alt="Tom in his backyard" width="200" height="400">
 
