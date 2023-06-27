@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Pegasus Profiler](assets/PegasusProfiler.png)
+![Pegasus Profiler](/assets/PegasusProfiler.png)
 <img src="/assets/assets/PegasusProfiler.png" alt="Pegasus Profiler" style="width: 40%; height: 40%" align="right">
 
 
