@@ -23,4 +23,4 @@ You can find some biographical notes about me [here](https://web.uri.edu/gso/mee
          alt="Tom in his backyard">
     <figcaption>Tom in his backyard.</figcaption>
 </figure>
--->
+-- >
