@@ -3,8 +3,6 @@ layout: page
 title: Instruments
 ---
 
-An overview of the instruments Tom has worked with and developed throughout his career.
-
 # The Pegasus profiler
 ![Pegasus Profiler](/assets/PegasusProfiler.png)
 *Spain, P.F., D.L. Dorson and H.T. Rossby.  PEGASUS:  A simple, acoustically tracked velocity profiler.  Deep-Sea Res., 28, 1553-1567, 1981.*
