@@ -17,6 +17,7 @@ wind systems never stop blowing, not even in glacial times, so must these curren
 So why is it that people worry about the ‘shut-down’ of the Gulf Stream and the climate changes
 that might follow? It’s an interesting story.
 <!--more-->
+
 Unlike all other western boundary currents, the Gulf Stream has an additional exclusive function
 as the pipeline for all warm water flowing from low to high latitudes in the north Atlantic. We
 know this because everywhere else across the Atlantic and at almost all depths flow is
