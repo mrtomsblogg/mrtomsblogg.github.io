@@ -1,5 +1,5 @@
 ---
-title: "Title of your post here."
+title: "Why the Gulf Stream is special"
 mathjax: true
 layout: post
 categories: media
