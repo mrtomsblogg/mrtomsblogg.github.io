@@ -1,4 +1,8 @@
-Why the Gulf Stream is special.
+title: "Title of your post here."
+mathjax: true
+layout: post
+categories: media
+excerpt_separator: <!--more-->Why the Gulf Stream is special.
 
 All oceans have ‘Gulf Streams’ or western boundary currents as they are known because they all flow along the western margins of oceans. These include the Gulf Stream off the US east coast, the Brazil Current in the South Atlantic, the Agulhas Current in the Indian Ocean, and the Kuroshio and East Australia Currents in the North and South Pacific oceans, respectively. Regardless of where they are, they all flow poleward, i.e. toward higher latitudes. In so doing they close the loop on the ocean-wide gyres driven by the trades that blow from east to west at tropical latitudes and the westerlies that blow from west to east at mid-latitudes. Given that the wind systems never stop blowing, not even in glacial times, so will these currents always flow. So why is it that people worry about the ‘shut-down’ of the Gulf Stream and the climate changes that might follow? It’s an interesting story. 
 <!--more-->
