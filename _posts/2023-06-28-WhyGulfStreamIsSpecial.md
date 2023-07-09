@@ -1,57 +1,10 @@
----
-title:  "Why the Gulf Stream is special."
-mathjax: true
-layout: post
-categories: media
-excerpt_separator: <!--more-->
----
+Why the Gulf Stream is special.
 
-All oceans have ‘Gulf Streams’ or western boundary currents as they are known because they all
-flow along the western margins of oceans. These include the Gulf Stream off the US east coast,
-the Brazil Current in the South Atlantic, the Agulhas Current in the Indian Ocean, and the
-Kuroshio and East Australia Currents in the North and South Pacific oceans, respectively.
-Regardless of where they are, they all flow poleward, i.e. toward higher latitudes. In so doing
-they close the loop on the ocean-wide gyres driven by the trades that blow from east to west at
-tropical latitudes and the westerlies that blow from west to east at mid-latitudes. Given that the
-wind systems never stop blowing, not even in glacial times, so must these currents always flow.
-So why is it that people worry about the ‘shut-down’ of the Gulf Stream and the climate changes
-that might follow? It’s an interesting story.
+All oceans have ‘Gulf Streams’ or western boundary currents as they are known because they all flow along the western margins of oceans. These include the Gulf Stream off the US east coast, the Brazil Current in the South Atlantic, the Agulhas Current in the Indian Ocean, and the Kuroshio and East Australia Currents in the North and South Pacific oceans, respectively. Regardless of where they are, they all flow poleward, i.e. toward higher latitudes. In so doing they close the loop on the ocean-wide gyres driven by the trades that blow from east to west at tropical latitudes and the westerlies that blow from west to east at mid-latitudes. Given that the wind systems never stop blowing, not even in glacial times, so will these currents always flow. So why is it that people worry about the ‘shut-down’ of the Gulf Stream and the climate changes that might follow? It’s an interesting story. 
 <!--more-->
 
-Unlike all other western boundary currents, the Gulf Stream has an additional exclusive function
-as the pipeline for all warm water flowing from low to high latitudes in the north Atlantic. We
-know this because everywhere else across the Atlantic and at almost all depths flow is
-equatorward. As such the Gulf Stream is an essential link in the Atlantic meridional overturning
-circulation (or AMOC for short) whereby warm salty water is transported to high latitudes,
-roughly half to south of Iceland and the other half to farther north into the Nordic Seas and the
-Arctic. This northern branch of the Gulf Stream, what we call the North Atlantic Current, plays
-an important role in moderating the climate of central and northern Europe. As it flows north it
-loses heat to the atmosphere keeping the winds warm as they blow across the Atlantic. It is the
-possibility of this AMOC portion of the Gulf Stream shutting down that is of concern. How
-might that happen?
+Unlike all other western boundary currents, the Gulf Stream has an additional function, namely as the pipeline for all salty warm water flowing from low latitudes to the northern North Atlantic. Only in the Gulf Stream do waters flow poleward, everywhere else across the Atlantic and at almost all depths flow is equatorward. The presence of warm salty water between Greenland and Europe as well in the Nordic Seas west and north of Scandinavia plays a central role in moderating the climate of central and northern Europe. As the Gulf Stream flows north it loses heat to the atmosphere keeping the winds warm as they blow across the Atlantic. In this additional role the Gulf Stream serves as a key link in what is known as the Atlantic meridional overturning circulation (or AMOC for short). We call this northern branch of the warm and salty Gulf Stream the North Atlantic Current. It is the possibility of North Atlantic Current shutting down that is of concern. How might that happen? 
 
-The customary view is that fresh water melting from Greenland might dilute the North Atlantic
-Current water to the point where it can no longer sink even when cooled to the freezing point. If
-it can’t sink and flow back into the deep North Atlantic, then new warm salty water can’t flow
-north to replace the outflow and with the result that the system shuts down. No warm water
-means no warm atmosphere and the winds over Europe turn cold. This is what people worry
-about. But how likely is this and more importantly can it be predicted or anticipated? Most
-oceanographers agree that for the foreseeable future this is unlikely. The reason is that freshwater
-melt from Greenland tends to flow along its coast into and south along the Labrador coast where
-it comes close to but makes only limited contact with the North Atlantic Current. This is
-important for it allows one branch of the North Atlantic Current to reach the Nordic Seas with
-little dilution. The other branch circulates clockwise in a large gyre southwest of Iceland known
-as the Irminger Sea. These waters cool and sink to 1000-2000 m at most.
+The customary view is that fresh water melting from Greenland might dilute the salty water of the North Atlantic Current to the point where it can no longer sink even when cooled to the freezing point. If it can’t sink and flow back into the deep North Atlantic, then new warm salty water can’t flow north to replace the outflow causing the system to slow and perhaps shut down. No warm water means no warm atmosphere and the winds over Europe turn cold. This is what people worry about. But how likely is this and more importantly can it be predicted or anticipated? Most oceanographers agree that for the foreseeable future this is unlikely. The reason is that freshwater melt from Greenland tends to flow along its coast into and south along the Labrador coast. Some of this water continues south along the Canadian margin, and the remainder turns east where it comes close to but makes only limited contact with the North Atlantic Current. This eastern branch tends to keep the waters south of Greenland cold and fresh, a region known as the ‘warming hole’. As a result, the North Atlantic Current continues largely unaffected toward the eastern Atlantic where it branches with one turning northeast toward the Nordic Seas between Scotland and Iceland, and the other making a circuitous loop around the subpolar North Atlantic, i.e. south of Iceland and east of Greenland. This split is fundamental to our understanding of the AMOC overturning, specifically how it densifies, sinks, and flows back south as North Atlantic Deep Water.  
 
-The Nordic Seas branch of the North Atlantic Current has been studied in detail for more than a
-century, longer than any other. Thanks to these early efforts we know with considerable
-confidence that it has remained stable with little variation over time. If anything given that the
-waters are warmer today, heat transport may be greater today than 100 years ago. We do know
-that it was shut down during glacial times but since the end of the last glacial event, the Younger
-Dryas, about 11,000 years ago has been flowing without interruption. It has always seemed a bit
-counterintuitive that in the midst of global warming the high latitude North Atlantic and northern
-Europe would enter a cooling period. All the evidence we have today suggests the opposite:
-
-Temperatures in Europe, Scandinavia and the Artic are increasing faster than almost anywhere
-else on our planet. The Gulf Stream and North Atlantic Current may be playing a role in these
-developments by keeping the ocean warm.
+The Nordic Seas branch of the North Atlantic Current has been studied in detail for more than a century. Thanks to these early efforts we know with considerable confidence that it has remained stable with limited variation over time. We also know that it was shut down during glacial times, but since the end of the last glacial event, the Younger Dryas, about 11,000 years ago has been flowing without interruption. When we talk about the switch from glacial to inter-glacial times, at least as far European warming is concerned, it is the presence of warm salty water in the Nordic Seas that is key. The reason is that the water that flows back into the deep North Atlantic can continue unhindered along the deep western margin out into the global ocean. When the Nordic Seas branch shuts down, there is still the subpolar branch. But water cooled here remains substantially blocked by the North Atlantic Current, it cannot flow south along the deep western margin. Perhaps as a result of this blockage, the subpolar gyre expands and the North Atlantic Current shifts south and becomes essentially the zonal extension of the Gulf Stream. Dense water formed in this expanded North Atlantic can still cross what might be called the paleo-Gulf Stream much like Labrador Sea water can cross the Gulf Stream today – more like a leakage rather than the unhindered flow along the deep western margin. Both branches of the AMOC matter with respect to European climate, but in my view it is the state of the Nordic Seas branch that matters most with respect to the major climate shifts around the North Atlantic. 
