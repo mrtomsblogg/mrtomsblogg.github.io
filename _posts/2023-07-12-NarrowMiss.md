@@ -6,8 +6,6 @@ categories: media
 excerpt_separator: <!--more-->
 ---
 
-**A narrow miss in the Seychelles**
-
 To be a sea-going oceanographer demands a lot of preparation, that goes without saying. But when you are staging a new expedition from a distant port with brand-new instrumentation that hasn’t been tested the challenges and hurdles quickly multiply. What follows is an example of the high levels of anxiety one might have to cope with when preparing for a cruise.
 <!--more-->
 
