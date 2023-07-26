@@ -1,5 +1,5 @@
 ---
-title: "Pegasus campaigns."
+title: "Profiling currents in the Gulf Stream."
 mathjax: true
 layout: post
 categories: media
