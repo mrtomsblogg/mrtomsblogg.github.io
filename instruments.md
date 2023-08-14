@@ -14,7 +14,7 @@ title: Instruments
 
 # The acoustic Doppler current profiler
 ![Figure on left shows ADCP cross-section in a vertical water column, and the image on the right shows the M/V Oleander.](/assets/ADCPinstrument.png)
-<p>The ADCP transmits short acoustic pulses along four beams. The sound is reflected back at various depths primarily by zooplankton. The Doppler shifts gives velocity along each of the four beams. These can be transformed in u, v, w velocities relative to the ship. Water velocity is obtained after subtracting ship’s ship (from GPS). We have operated ADCPs on three ships for years and even decades (the Oleander).</p>
+<p>The ADCP transmits short acoustic pulses along four beams. The sound is reflected back at various depths primarily by zooplankton. The Doppler shifts gives velocity along each of the four beams. These can be transformed in u, v, w velocities relative to the ship. Water velocity is obtained after subtracting the ship’s velocity (from GPS). We have operated ADCPs on three ships for years and even decades (the Oleander).</p>
 
 # Scanning the ocean with ADCPs
 ![Three vessels (Oleander, Norrona, and Nuka Arctica) are shown which are each equipped with ADCPs.](/assets/ADCPships.png)
