@@ -1,5 +1,5 @@
 ---
-title: "The art of ballasting "
+title: "The fine art of ballasting "
 mathjax: true
 layout: post
 excerpt_separator: <!--more-->
