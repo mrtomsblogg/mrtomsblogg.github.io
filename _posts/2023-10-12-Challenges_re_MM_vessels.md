@@ -1,6 +1,5 @@
-
 ---
-title: "On the challenges of sustained observation.”
+title: "On the challenges of sustained ocean observation.”
 mathjax: true
 layout: post
 categories: media
@@ -21,3 +20,4 @@ At the technical level the oceanographic community has little to no experience w
 It is also well-known that the ADCP and other hull-mounted instruments depend upon clear bubble-free water to work. Vessels with large bow thruster openings (so they can make tight turns in harbors) are particularly challenging to work with. Experience has taught us that ADCP performance has been best with delta-type bows, and of course the deeper the draft the better. Knowledge that ADCP data returns have been less than perfect has perhaps put a damper on this kind of thinking? But it needn’t be so, we are gradually coming to realize that there are be solutions to these problems. They could lead to greatly improved ocean observing capabilities, time will tell. 
 
 Lastly, it has been argued that ships change routes such that you can’t rely on them to develop long time series. That certainly is true for many if not most vessels. But those that we have worked with have been exceptions: between Bermuda and the US, and from Denmark to Greenland, and to the Faroes and Iceland. These routes span the Gulf Stream and its extensions in the north. I have zero doubt there are other valuable routes. Even if a vessel were to shift to a new route, that need not be a loss, it might be interesting in its own right. 
+
