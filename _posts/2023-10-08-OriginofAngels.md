@@ -3,6 +3,7 @@ title: "On the origin of Angels."
 mathjax: true
 layout: post
 categories: media
+excerpt_separator: <!--more-->
 ---
 
 This has nothing to do with Oceanography, but at least it is about one of the little wonders of Nature. I was finishing up a three month mini-sabbatical at the University of Stockholm. I’m pretty sure it was January 5, 1996, a very cold Friday. The sky was clear and the air still when I got to my office early that morning. When the sun came up I saw the 22° circle halo, but what really caught my eye were the bright sun dogs to either side. I had seen them many times before, but this time they were so bright! Needless to say I took lots of pictures, in fact I wasted much of what I had left in the camera. Not good for I was going visit a friend in the Stockholm archipelago the next morning, and because the winter had been so cold the city harbor was full of pack ice. The boat ride was bound to be exciting. I had to go into the city to buy some more film. 
