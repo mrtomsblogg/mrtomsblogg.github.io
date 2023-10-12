@@ -1,0 +1,29 @@
+---
+title: "On the challenges of sustained observation.”
+mathjax: true
+layout: post
+categories: media
+excerpt_separator: <!--more-->
+---
+
+Historically speaking, oceanographers were hydrographers – they map out distributions of heat and salt from which they can estimate transports relative to an assumed quiet deep ocean. This worked reasonably well at low latitudes, but not in western boundary currents nor at high latitudes. Believe it or not we couldn’t do much better than this until the 1960s when much effort was spent developing current meters and neutrally buoyant floats which could be deployed for extended periods of time. These gave us the tools to see what the ocean was doing. what we could only dimly perceive in the past we now could see the amazing richness of eddy activity in the ocean. This was an exciting and transformational period in physical oceanography. What also became apparent was that point measurements of currents, no matter how long, are ineffective for estimating transport, another approach was needed. of This changed with the advent of the acoustic Doppler current profiler (ADCP) coupled with GPS navigation. An ADCP equipped ship in regular traffic can measure currents accurately from the surface to 300-1000 m depths, depending upon the instrument – repeatedly, year after year. 
+<!--more-->
+
+Charlie Flagg and I have been doing this on the Oleander operating between Bermuda and New Jersey since fall 1992. Given the interest in ocean currents, I’ve often wondered why there has been so little initiative to implement this methodology on other vessels. After all, we have satellites from which we can make geostrophic estimates of surface currents. Why stop there, why not use ships to extend that capability into the water column? If we could accurately know currents along selected routes to at least 1000 m, we would cover both the wind-driven and the upper limb of any meridional overturning circulation. I’m not familiar with modeling issues but I can’t but help think such information would be quite valuable to modeling community and ocean reanalysis efforts. So why the lack of initiative?
+
+Several thoughts come to mind. At the scientific level there are at least two issues. Velocity data are difficult to work with, scalars such and temperature, salt and tracers are far easier. We also have a long history of such information, but not so of velocity. In the few conversations I have had with modelers it appears that the added value of assimilating sparse velocity transects is not worth the effort. That of course completely ignores what I think is the primary value of these repeat transects: to build up an archive of spatial and temporal variability from which fluxes and their trends over time can be estimated. 
+
+A further challenge is that maintaining a program of sustained observation is at odds with our short attention span, and one that modern science imposes on us. Whether at a research institution, university, or research corporation, the life cycle of a research project is idea-proposal-research-publish spanning a few years. Some projects span longer times, but the objective is always the same, to prepare a deliverable. This matches poorly with the need for sustained observation.  
+
+At the technical level the oceanographic community has little to no experience working with the merchant marine. Installing an ADCP requires a dry dock so a sea chest and cofferdam can be welded into place. This type of work is routine in a shipyard, but the oceanographic community lacks an institutional framework for this kind of activity. It’s tough enough to build and instrument a new research vessel so why consider a commercial vessel where we would have even less control! 
+
+It is also well-known that the ADCP and other hull-mounted instruments depend upon clear bubble-free water to work. Vessels with large bow thruster openings (so they can make tight turns in harbors) are particularly challenging to work with. Experience has taught us that ADCP performance has been best with delta-type bows, and of course the deeper the draft the better. Knowledge that ADCP data returns have been less than perfect has perhaps put a damper on this kind of thinking? But it needn’t be so, we are gradually coming to realize that there are be solutions to these problems. They could lead to greatly improved ocean observing capabilities, time will tell. 
+
+Lastly, it has been argued that ships change routes such that you can’t rely on them to develop long time series. That certainly is true for many if not most vessels. But those that we have worked with have been exceptions: between Bermuda and the US, and from Denmark to Greenland, and to the Faroes and Iceland. These routes span the Gulf Stream and its extensions in the north. I have zero doubt there are other valuable routes. Even if a vessel were to shift to a new route, that need not be a loss, it might be interesting in its own right. 
+
+
+
+
+
+
+
