@@ -4,7 +4,7 @@ title: Instruments
 ---
 
 # Yvette
-![Yvette_profiler](/assets/Yvette.png)
+![Yvette_profiler](/assets/Yvette.001.png)
 *Evans, D., H.T. Rossby, M. Mark and T. Gytre.  YVETTE-a free fall shear profiler.  Deep-Sea Res., 26, 703-718, 1979.*
 <p><br>Schematic view of Yvette. The sensors at the lower end consist of a pair of orthogonal Trygve Gytre acoustic current meters, and a Neil Brown CTD. As it sinks the current meters measure velocity relative to average motion of the near 6 m long tube. Dave Evans developed an inverting algorithm to estimate vertical shear to scales roughly 10x greater than the instrument. Knowing shear and density gradient we can determine the Richardson number from about .5 to 50 m in the vertical, a very useful range of scales.</p>
 
