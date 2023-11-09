@@ -1,5 +1,5 @@
 ---
-title: "SOFAR receiver at Grand Turk Island.”
+title: "SOFAR receiver at Grand Turk Island"
 mathjax: true
 layout: post
 categories: media
