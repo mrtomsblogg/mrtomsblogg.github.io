@@ -3,6 +3,10 @@ layout: page
 title: Instruments
 ---
 
+# The URI sound source
+![The RAFOS sound source](/assets/SourceDrawing.png)
+<p><br>We developed this sound source a little over 20 years ago. It was a joint project between me and Prof. Jim Miller in the URI Ocean engineering Dept. It is pretty much the standard sound source for all RAFOS navigation applications. It consists of an open aluminum tube, 0.4 m diameter, 1.78 m long and with a 1.27 cm thick wall. Mounted its center sits a 15 cm diameter piezo-electric monopole transducer that vibrates radially with a center frequency of 262 Hz. These vibrations set up resonant pressure oscillations that radiate primarily horizontally away from the tube. We have calibrated the sound source several times, and find that with 1000 VAC applied to the monopole the radiated source level will be 180 dB re 1 μbar @ 1 m. It is very efficient – 100% (as defined, meaning if the sound pressure level in the horizontal plane were the same in all directions). But it also has a Q of about 100, meaning that its 3 dB bandwidth is barely 3 Hz. This means that the tube length must be adjusted so it will resonate at the local speed of sound where it is to be deployed. The design is of course scalable to other frequencies. The latest version of the sound source has a SeaScan clock that is accurate to within 1-2 seconds per year. The sources are now built at the Woods Hole Oceanographic Institution.</p>
+
 # Yvette
 ![Yvette_profiler](/assets/Yvette.001.png)
 *Evans, D., H.T. Rossby, M. Mark and T. Gytre.  YVETTE-a free fall shear profiler.  Deep-Sea Res., 26, 703-718, 1979.*
