@@ -10,4 +10,5 @@ This has nothing to do with Oceanography, but at least it is about one of the li
 <!--more-->
 
 I got back to the campus a bit before sunset. While walking to my office I suddenly noticed an incredible pattern of bright light high above the sun, now low behind the university library. It was a halo of some kind, but I had never seen anything like it. A beautiful pattern consisting of two graceful ‘wings’ stretching up and out with a barely perceptible shaft of light down toward the hidden sun. I was totally blown by the sight – and instinctively realized that I now knew where angels come from. When I told my colleagues about this a little later at afternoon coffee, they told me it was a halo known as a tangent arc. Normally the 22° circle is also visible, but this time not. What was it if not an angel soaring high in the sky! 
-[AngelHalo.pdf](https://github.com/mrtomsblogg/mrtomsblogg.github.io/files/13908100/AngelHalo.pdf)
+
+![Scan 1](https://github.com/mrtomsblogg/mrtomsblogg.github.io/assets/136515474/7cd5f29b-2481-4b01-ad2b-ca4efd122418)
