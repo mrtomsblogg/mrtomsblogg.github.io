@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_separator: <!--more-->
+---
 
 Look at almost any map from the Renaissance period and you will realize the importance of the oceans for travel and commerce. A voyage at sea was far easier than a journey over land. The maps bear witness to this: the most accurate and detailed aspect of many of these maps is surely the coastline and the location and names of ports important for navigation and trade. But if the maps inform about the coastlines, they remain conspicuously quiet about the ocean, which almost always appears as a void, nothing of note. But there is one truly remarkable exception, namely the 1539 Carta Marina, a map of the Nordic countries published in 1539 in Venice by an exiled Swedish priest, Olaus Magnus. In this physically huge map, made up of nine wood lithograph prints, Olaus draws little descriptions of human activity, of hunting and fishing, swimming and ice skating, sleigh-riding and skiing in the mountains. 
 <!--more-->
