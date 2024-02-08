@@ -18,13 +18,15 @@ title: Instruments
 <p><br>The Pegasus principle of operation is very straightforward: As it sinks and ascends it measures the travel time of acoustic pings from bottom beacons (or round-trip travel times to transponders). From those slant distances together with its depth (from pressure) we can determine from its trajectory the strength of the currents at all depths. Originally developed to study the Somali Current in 1979, it was used in a number of studies in the 1980s.</p>
 
 # The SOFAR float
-![SOFAR float]/assets/(SOFAR_float.png)
+![SOFAR float](/assets/SOFAR_float.png)
 <p><br>Photo of a polyMODE float being loaded on the RV Oceanus in spring 1978. The long tube provides the flotation for the batteries and electronics in it, the shorter tube rigidly attached at the lower end is the 250 Hz sound source. The floats were designed and built by Doug Webb (in the hard hat) at WHOI. Yours truly in shorts and long hair is standing next to him. Every 8 hours the floats emitted a 1.523 Hz swept FM signal over 80 seconds. The signals were received at SOFAR hydrophones I had instrumented at Bermuda, the Bahamas, Grand Turk (see blog) and Puerto Rico. The signals were recorded both digitally for later analysis and in visual form for real-time tracking of the floats. During the main field program an observer at the stations would phone in the arrival times so we could update the position of all floats daily; this proved to be very helpful, both in MODE and in polyMODE. Even though the aluminum tubes were much stiffer (less compressible) than water, we noticed that the earlier generation SOFAR floats (in MODE) slowly sank over time due to a very slight plastic creep of the metal. To prevent the polyMODE floats from sinking Doug mounted an insulated sacrificial zinc anode on the float. When the pressure exceeded a certain value, a relay would connect the anode to the aluminum so the zinc would corrode. With the loss of mass the float would return to its target depth, so clever! 
-- - - - -
-Rossby, T.  “Evolution of Lagrangian methods in Oceanography.”  Chapter 1 in Lagrangian Analysis and Prediction in Coastal and Ocean Processes. Cambridge University Press. 2007
 
+# The SOFAR float tracking system
+![Price_figure](/assets/Price_figure.png)
+<p><br>The transmissions from the floats were received at SOFAR hydrophones (placed at sound channel depth and permanently connected by underwater cable to shore) we had instrumented at Bermuda, Bahamas, Grand Turk (see blog), and Puerto Rico. These SOFAR hydrophones were part of the Atlantic Missile Impact Location System. When missiles (from Cape Canaveral) splashed down, they would release a tiny charge that would explode when it sank to SOFAR channel depth. The signal arrival times at the SOFAR hydrophones would be used to triangulate the splash down point. 
 
-  
+These hydrophones suited us perfectly to track the floats and report to MODE and polyMODE scientists what the ocean was doing in real-time, a very exciting time! (And to detect failures, see the blog ‘Close call in MODE’) But these shore-based stations also restricted the geographical area where we could operate. To address this Al Bradley at WHOI developed the autonomous listening station that could be deployed anywhere. It was used in numerous studies by US and French oceanographers in the 1980s. 
+
 # The RAFOS float
 ![RAFOS figures](/assets/RAFOScombo2.png)
 <p>The RAFOS float principle of operation: As it drifts at depth it listens for and records the arrival times of precisely timed signals from moored sound sources. At end of mission the float surfaces and transmits to a satellite all data it has collected, pressure and temperature too. Knowing the speed of sound in sea water, the arrival times give us the float’s distance to the sources from which its position can be determined. Navigational accuracy ~3 km (depends on many factors).</p>
