@@ -11,4 +11,8 @@ August Pettermann published a beautiful chart of July 1870 sea-surface temperatu
 
 ![Golfstrom](/assets/Pettermann_July1870.jpg)
 
-Anyone who enjoys maps will revel in this one. First, it is a wonderful color print. Second, even though it is over 150 years old, it encompasses features we recognize today, the warm water flow into the NE Atlantic, the warm waters off the Norwegian coast and even past the west coast of Svalbard. There is even a hint of the Northwest Corner (where the warm water turns east near 55°N). He was convinced the Arctic was ice-free (once you got past the pack ice), and evidently argued for this his entire life. A curious detail is that he uses the Réaumur temperature scale where 0 and 80 represent the freezing and boiling points of water. Enjoy! 
+Anyone who enjoys maps will revel in this one. First, it is a wonderful color print. Second, even though it is over 150 years old, it encompasses features we recognize today, the warm water flow into the NE Atlantic, the warm waters off the Norwegian coast and even past the west coast of Svalbard. There is even a hint of the Northwest Corner (where the warm water turns east near 55°N). He was convinced the Arctic was ice-free (once you got past the pack ice), and evidently argued for this his entire life. A curious detail is that he uses the Réaumur temperature scale where 0 and 80 represent the freezing and boiling points of water. 
+
+As a further expression of European fascination with the Gulf Stream you might find the following article interesting: 
+https://web.uri.edu/gso/wp-content/uploads/sites/916/GS_commandeered-1-1.pdf. 
+It's a piece of Swedish science fiction. Published in 1910, the story starts in 1911.
