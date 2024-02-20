@@ -1,0 +1,21 @@
+---
+title: "Wanted, a lens detector."
+mathjax: true
+layout: post
+categories: media
+excerpt_separator: <!--more-->
+---
+
+Almost all oceanographic research vessels are equipped with acoustic Doppler current profilers (ADCP), some reaching deeper than others. A few merchant marine vessels are similarly equipped. One of these, the Oleander, has been scanning upper ocean currents between Bermuda and New Jersey on a weekly basis since late 1992. The main purpose of this ongoing effort has been to monitor the Gulf Stream, and, needless to say, we have learned a lot about its structure and variability over time. But along the way the data we have collected have had much else to tell us. One of these topics is that of coherent vortices, i.e. spinning bodies of water. Besides the Gulf Stream the Oleander was also at times slicing through warm and cold core rings. What could we learn about them?
+<!--more-->
+
+We found far more than just rings. This became the research focus of David Luce, a graduate student who joined our group roughly 20 years ago. His starting point was that rings and coherent eddies are circular, which means that as the ship traverses an eddy the velocity vector will change magnitude and direction in a well-defined manner.  At that time we had over a decade of Oleander transits to explore. David took a two-step approach. The first was to search for local extrema in the rotation rate of the current vector. The second step was to fit an axisymmetric Gaussian stream function to neighboring velocity vectors. If the fit met a predetermined criterion it was noted as a cyclonic or anticyclonic eddy of a certain size, strength, and location. On occasion the Oleander would slice through the same eddy twice or several times. This, of course, provided further validation of the methodology. The multiple slices also gave us a more complete picture of the eddy. 
+
+With this new tool David uncovered not only the cold core rings but even some quite intense anticyclonic eddies (his study focused on the Sargasso Sea side of the Gulf Stream). The intense eddies were found mostly close to the Gulf Stream, but he also found a plethora of eddies, both cyclonic and anticyclonic, all along the track to Bermuda. Thanks to remote sensing (thermometry and altimetry) large cold core rings can be back-tracked to where they came from but most of the others probably not (we didn’t explore this). Knowing nothing about their origins or life-lengths it is possible that despite best efforts some were false positive detections. Indeed, David made a point of this by showing how what appeared to be a cold core ring was actually the southern tip of an extended Gulf Stream meander! 
+
+The 150 kHz ADCP we operated then had a limited vertical reach, not much more than 100 m in the Sargasso Sea, so we focused on the horizontal structure of currents at 55 m depth. Given the many eddy detections (he estimated that about 8% of the track time was in passing through coherent features), it might be instructive to deploy deep-drogued surface drifters (to avoid Ekman layer influence) in some of these to study their evolution. But perhaps first use high resolution altimetry from the new SWOT satellite to zoom in on the surface topography along the Oleander track? Since David’s study we have collected another decade of ADCP data, now with a deeper reaching (600 – 700 m) 75 kHz ADCP. Also, several research vessels are now equipped with 38 kHz ADCPs that reach to greater than 1000 m depths. 
+
+Needed now is a lens detector, i.e. an algorithm that can pick out 3-dimensional structures along a vessel track. We know from RAFOS float studies in the NE Atlantic that eddies or lenses are common, close to 15% of their trajectory time exhibited looping motion (see blog on spinning disks). This suggests that a significant fraction of ocean volume is tied up in coherent vortices. With an appropriate lens detector algorithm, we could conduct a systematic population survey of coherent vortices from all the ADCP data that have been collected through the years. 
+
+- - - - -
+Luce, D. and T. Rossby, 2008. On the size and distribution of rings and coherent vortices in the Sargasso Sea, J. Geophys. Res., 113, C05011, doi:10.1029/2007JC004171.
