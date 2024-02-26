@@ -3,7 +3,7 @@ title: "The AMOC has two overturning pathways."
 mathjax: true
 layout: post
 categories: media
-excerpt separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 The concern about the state of the AMOC continues today. It is appropriate to be concerned, but fears that it will shut down are greatly exaggerated, and there is no evidence that it has slowed in recent times. First, the presumed mechanism for shutting it down, fresh-water run-off from Greenland, besides being a gradual process, takes a circuitous route around Greenland and the Labrador Sea and gains salinity such that when it meets with the warm, salty North Atlantic Current, the northern branch of the Gulf Stream, the dilutionary impact is muted. Second, the AMOC involves two overturning pathways, one is via the Irminger Sea, and the other through the Nordic Seas. We all know this, but it is a crucial distinction that needs to be better recognized because they play quite different roles in major climate change.
