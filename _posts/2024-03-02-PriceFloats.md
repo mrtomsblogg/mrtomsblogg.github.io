@@ -16,6 +16,9 @@ But the match between cluster rotation and change in latitude, i.e. relative and
 In oceanography we don’t have the luxury of the laboratory physicist who can design and execute experiments in a controlled fashion; instead, we must work with what observations can tell us. By pure serendipity this study may have been as close to a design experiment as one can imagine, and what a treat it was! 
 
 The figure below illustrates the full 60-day cycle of cluster movement in ~12 day steps in geographical coordinates in the left box, and relative to each other in the right box (where the cluster translation has been removed). The left set of panels in each box shows the floats while translating, the right panels when reversing direction. The right box shows clearly their clockwise motion in the NE and anticlockwise motion in the SW. Beautiful! 
+
+![Price_floats](/assets/Price floats.md)
+
 - - - - -
 Price, J.F. and H.T. Rossby.  Observations of a barotropic planetary wave in the western North Atlantic.  J. Mar. Res., 40 (suppl.), 543-558, 1982.
 
