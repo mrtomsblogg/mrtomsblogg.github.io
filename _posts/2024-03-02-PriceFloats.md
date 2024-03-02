@@ -21,4 +21,3 @@ The figure below illustrates the full 60-day cycle of cluster movement in ~12 da
 
 - - - - -
 Price, J.F. and H.T. Rossby.  Observations of a barotropic planetary wave in the western North Atlantic.  J. Mar. Res., 40 (suppl.), 543-558, 1982.
-
