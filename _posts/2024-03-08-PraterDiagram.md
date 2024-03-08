@@ -1,7 +1,6 @@
 ---
-title: "The Prater Diagram.”
+title: "The Prater Diagram."
 mathjax: true
-layout: post
 categories: media
 excerpt_separator: <!--more-->
 ---
