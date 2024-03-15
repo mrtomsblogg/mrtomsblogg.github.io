@@ -1,5 +1,5 @@
 ---
-title: "The spaghetti diagram. "
+title: "The spaghetti plot."
 mathjax: true
 layout: post
 categories: media
