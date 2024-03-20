@@ -10,3 +10,5 @@ We’ve always known that the seasonal cycle lags the length of the day. But by 
 <!--more-->
 
 Since I grew up in Stockholm I had to check the numbers there and found that the thermal lag was 2 days less, i.e., 33 days. Given Stockholm's maritime climate I had expected a greater lag, not a lesser one (probably not significantly different). The fit wasn’t quite as tight, 0.55°C. The annual average daytime high = 9.83°C ranging from -0.67°C to 20.32°C. The climate tables didn't show the years used. Given warming in recent years the average temperatures are probably on the low side. This is no doubt the case for Providence as well. 
+
+Addendum: At lunch today my colleagues suggested Stockholm may not be as maritime as I thought and suggested I consider a station on Ireland. They were right, ‘thermal equinox’ there comes even later at May 6, almost 7 weeks after vernal equinox! 
