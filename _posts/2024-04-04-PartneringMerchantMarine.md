@@ -19,5 +19,3 @@ In May 2012 Peter Ortner and I were invited to present the SCOR/IAPSO report “
 
 - - - - -
 https://scor-int.org/Publications/OceanScope_Final_report.pdf
-
-
