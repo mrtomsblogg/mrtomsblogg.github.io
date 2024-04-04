@@ -1,0 +1,23 @@
+---
+title: "Partnering with the Merchant Marine."
+mathjax: true
+layout: post
+categories: media
+excerpt_separator: <!--more-->
+---
+
+Given the extraordinary coverage of the ocean surface from satellites, I find it rather curious that there is so little interest in the oceanographic community in the merchant marine (MM) with its potential to provide both sustained ground truth and to extend their vision below the surface. Vessels traverse all oceans. We work with a few of them to drop XBTs and release Argo floats. The data from these give us valuable information about upper ocean heat and salt, and gyre-scale circulation at 1000 m depth. With respect to the deep ocean the decadal Go-Ship program plays the key role with its global surveys a wide variety of physical and biochemical parameters. All together these surveys inform us about the state of the ocean and how it has changed over time. But they tell us little if anything about what the ocean is doing, it is after all a highly dynamic system. We modest effort we can do far better. 
+<!--more-->
+
+With respect to ground truth, I obviously mean the in-situ measurement of what satellites see. Remote measurements, say of ocean color and salinity, need this information for calibration and verification purposes. This is done today with research vessels, but their coverage is limited. This shortcoming becomes particularly acute in areas that are stormy or heavily cloud covered – satellites are blinded. MM vessels in regular traffic could help fill those gaps. With respect to extending vision to below the surface I’m thinking primarily of velocity. Satellite altimetry gives us truly impressive global coverage of surface currents, but this skill is limited to the surface. Parsing out currents at depth is a challenge. A few MM vessels have been equipped to profiles current at depth, and these have given us valuable information on transports and their variability over time.  Indeed, they have given a taste for what is possible. An outstanding feature of profiling currents from underway MM-vessels is that currents are resolved at high horizontal resolution. Imagine extending this capability to a select set of transoceanic routes! Of course, MM-vessels can be equipped with LIDARs to profile particulate matter and they could drop expendable probes that reach deeper. There is really no limit to what might be possible. 
+
+The time is ripe to explore developing a formal partnership between the oceanographic community and the merchant marine for sustained ocean observation. You may argue that we do this with the volunteer observing ship (VOS, focus on the marine atmosphere) and Ship of Opportunity (SOOP, focus on the ocean) programs. You would be correct, but these activities don’t recognize, much less explore the full potential of the MM for sustained ocean observation; they are in reality only limited extensions of skills we have on research vessels. A new initiative, Science RoCS (research on commercial ships) is taking the first steps to develop these ideas. The challenge is to break out of the mold of thinking of MM-vessels as extensions of what we do today and instead view them as a resource for new capabilities and ways of viewing the ocean. We know from experience they are willing to help.
+
+In an earlier blog I wrote about technologies to profile ocean currents from vessels underway. We can reach to km depths today, and technologies exist that could be developed to reach far deeper. While there may be little incentive το develop these for research vessels, on MM-vessels the return on investment would be enormous. They would greatly improve our knowledge of both upper and deep ocean circulation and how these vary across space and time. Such data would be enormously valuable for both ocean circulation analyses and numerical modeling studies. I am not a modeler, but I imagine having accurate and detailed information on deep ocean currents on selected routes would be a valuable contribution to ocean reanalyses, particularly on longer time scales as velocity information along MM-routes diffuses to larger scales. 
+
+In May 2012 Peter Ortner and I were invited to present the SCOR/IAPSO report “OceanScope’ to representatives of NSF, NOAA, and NASA at the OSTP. We were very pleased with it and had high hopes the agencies might use it as a starting point for a wider discussion about the observational possibilities that would open up in a partnership with the MM. Sadly, that did not happen. I still find that hard to understand. 
+
+- - - - -
+https://scor-int.org/Publications/OceanScope_Final_report.pdf
+
+
