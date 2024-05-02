@@ -13,7 +13,7 @@ The Nuka Arctica operation became a wonderful collaboration between us here at G
 
 A graduate student at the UiB, Øyvind Knutsen, joined us for a few months to learn from Sandy Fontana, our ADCP guru, how to process the ADCP data, and to initiate a first analysis of the material, it was an exciting time. One of the striking things to emerge was the discovery of two parallel flows of the Irminger Current, a very robust finding that illustrated the power of the vessel-based ADCPs: sampling the horizontal dimension at high resolution. He also documented the southward flow on the eastern side of the ridge. See also the paper by Chafik et al. (2014) for more detail on the vertical structure of these currents. The data from the Nuka Arctica operation have contributed significantly to our knowledge of the subpolar North Atlantic circulation. 
 
-![Knutsen_figure](/assets/ Knutsen_figure.jpg)
+![Knutsen_figure](/assets/Knutsen_figure.jpg)
 
 - - - - -
 Knutsen, Ø., H. Svendsen, S. Østerhus, T. Rossby and B. Hansen (2005). Direct measurements of the mean flow and eddy kinetic energy structure of the upper ocean circulation in the NE Atlantic. Geophys. Res. Letters,32. L14604, doi:10.1029/2005GL023615
