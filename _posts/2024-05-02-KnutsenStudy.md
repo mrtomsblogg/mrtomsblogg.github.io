@@ -1,5 +1,5 @@
 ---
-title: "Discovery of the dual structure of the Irminger Current."
+title: "Discovery of the two parallel streams of the Irminger Current."
 mathjax: true
 layout: post
 categories: media
