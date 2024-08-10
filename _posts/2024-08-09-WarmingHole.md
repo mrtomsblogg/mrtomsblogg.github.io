@@ -13,7 +13,7 @@ So why the fascination with the warming hole, I wish I knew. Perhaps the fact th
 
 One possibility might be that the increased ice-melt from Greenland helps maintain the observed temperature. Ice melts at 0°C, this sets the run-off temperature regardless of warming elsewhere. Since it is thought that run-off contributes to the warming hole, the 0°C melting point might be a reason the warming hole remains cool? 
 
-The other possibility that comes to mind is that the water in the warming hole is ‘trapped’ there. In winter the cold air masses off North America can drive convective overturning to as deep as 2 km and in so doing redistribute or transfer water to greater densities that eventually spread out and leave the area. What exits at depth must be balanced by a convergence at the surface. This water is repeatedly subject to cooling in winter, so the lack of heating reflects the maintenance of the deep (1-2 km) pool of cold water.
+The other possibility that comes to mind is that the water in the warming hole is ‘trapped’ there. It has a cyclonic circulation with cold water from Greenland defining its northern and western edge and the North Atlantic Current as its southern limit. In winter the cold air masses off North America can drive convective overturning to as deep as 2 km and in so doing redistribute or transfer water to greater densities that eventually spread out and leave the area. What exits at depth must be balanced by a convergence at the surface. This water is repeatedly subject to cooling in winter, so the lack of heating reflects the maintenance of the deep (1-2 km) pool of cold water.
 
 Another reason might be that the AMOC is sending more of its heat (as warmer water) to the east and north into the Nordic Seas?! 
 
