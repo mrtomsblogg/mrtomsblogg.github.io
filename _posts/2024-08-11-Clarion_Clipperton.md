@@ -1,0 +1,16 @@
+---
+title: "Circulation in the Clarion-Clipperton Zone."
+mathjax: true
+layout: post
+categories: media
+excerpt_separator: <!--more-->
+---
+
+Yesterday morning I read about a recent British expedition to the Clarion-Clipperton Zone, a huge abyssal plain located between Hawaii and Mexico. They found all kinds of marine life, unknown to us until now. For example, glass sponges, which are thought to live as long as 15,000 years! The ‘pink barbie pig’ must be one of the most bizarre creatures I’ve ever seen, google it. But there are plenty of others to pick from. The point being that there is much we do not know about the deep ocean. This includes the circulation in and around these abyssal plains. In fact, I suspect we haven’t a clue besides that it is probably very, very quiet. 
+<!--more-->
+
+What motivates the interest in this region has a long history: Throughout the entire area (in fact much of the deep ocean) one finds potato-sized rocky nodules. These nodules are rich in metals such as nickel, copper, cobolt, and manganese, all of enormous commercial value. This I knew, but I didn’t know that the time when deep-sea mining might start was fast approaching. A UN authority, the International Seabed Authority, is charged with regulating both exploration and future mining activities. Whether and how they have the authority to decide on such a momentous issue isn’t clear to me, Once we start to allow deep-sea mining, where will it all end? We have agreements to stay away from Antarctica notwithstanding whatever riches one might find there, why not respect and appreciate the deep ocean - more and more we act as if the world is ours to own. But that isn’t why I’m writing this. 
+
+The newspaper article mentioned how little we know about the abyssal plains of the Clarion-Clipperton Zone. That got me wondering about the circulation. Being so far from boundary currents, from sources of deep water, being the subtropics/tropics where the weather is mild, I’ll bet these deep waters are extremely quiet. But how quiet? Does it matter, do we care? I don't know, but it might be of interest to know how water passes through the region. The deep ocean is cold and dark, but how uniform is it? Are the flora and fauna of these abyssal plains found elsewhere, or have they evolved characteristics peculiar to the region? What is the residence time for water in the area? A simple and very descriptive approach to address these questions might be to deploy an array of RAFOS floats to study translation and dispersion. One could of course deploy moored current meters, but if the flow is weak, they may not work; RAFOS floats do not have that problem. 
+
+I can imagine a very straightforward field program consisting of 3-4 RAFOS sound sources to provide the underwater navigation system, and the deployment of some 50-100 RAFOS floats at 4000 m depth (or even deeper if possible) for 2-3-4-5 year missions, say. How far will they drift? Will the cluster reveal a mean drift, or will dispersion dominate? How large are the eddy velocities, what do these look like? What sets their time scales? How quiet can an ocean get; we’ve never studied one! Does the ocean bottom feel the passage of storms and hurricanes passing by overhead? If so, how? 
