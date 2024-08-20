@@ -15,6 +15,6 @@ As the open ocean tide approaches a continental slope (at ~200 ms-1 speed), the 
 
 If another study with acoustically-tracked tags were to take place, I like to think that just like last time a goodly number of them will work their way south to and down the continental slope giving us a broad-based window into internal tide generation and mixing. A few deployed current meters would give us a handle on motions induced by the internal tide along the slope; when they are or aren’t arrested by the background flow and perhaps how they break. The fact that the temperature variations are far from periodic points to Doppler shifting by the currents, internal wave breaking and chaotic motion along the bottom, processes that will lead to enhanced diapycnal (i.e., vertical) mixing. Indeed, most diapycnal mixing in the ocean is thought to occur along sloping bottoms, not in the open ocean. The rather messy temperature records from these two lobsters may be examples of that. If you are interested in taking a closer look at these data, please don’t hesitate to contact me! 
 
-![lobster_temp_plot](/assets/lobster_temp_plot.pdf)
+![lobster_temp_plot](/assets/lobster_temp_plot.jpeg)
 
 
