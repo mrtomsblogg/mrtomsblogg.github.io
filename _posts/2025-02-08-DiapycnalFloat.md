@@ -1,5 +1,5 @@
 ---
-title: The diapycnal float. 
+title: The 'diapycnal' float. 
 mathjax: true
 layout: post
 categories: media
