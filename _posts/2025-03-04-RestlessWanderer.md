@@ -13,7 +13,9 @@ The float lived way beyond its 2-3-year design life length. The obvious reason t
 
 It was deployed near the center of the meddy mentioned earlier. It made six loops before disappearing between some islands near Turks and Caicos two months later (A). Three months after that it emerged (B) and looped around another (or a fragment of the previous) eddy for 3 months before disappearing again. But then it remerged (C), this time loafing about offshore of Turks and Caicos for 5 months before again disappearing into the island chain. This time for good since we heard nothing more. Imagine our surprise when 3 years later we picked up its signals from where it emerged from Mona Passage between Hispaniola and Puerto Rico! 
 
+
 ![Restless__Wanderer.jpeg](/assets/Restless__Wanderer.jpeg)
+
 
 The 13-month long section (F) is rather curious. At the risk of over-interpreting the trajectory, it makes 3 curious east and south excursions as it drifts north – suggestive of wave-like motion. These may in some way be related to the float’s northward movement and thus increasing planetary voracity. 
 
