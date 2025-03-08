@@ -1,5 +1,5 @@
 ---
-title: The restless wanderer. 
+title: The wayward wanderer. 
 mathjax: true
 layout: post
 categories: media
