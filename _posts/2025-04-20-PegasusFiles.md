@@ -13,7 +13,7 @@ By the Pegasus files I mean the data we collected from our bi-monthly sections w
 
 A unique aspect of the project was to use the vector information to remap the sections into what we call stream or natural components where we use the maximum velocity vectors to define a downstream and a cross-stream direction. This simple transformation of the data revealed a striking uniformity of the width and the strength of the current. The nine sites (P0-P8) along the heavy black line in the figure show where the Pegasus velocity profiles were obtained. The thin black arrows indicate observed vectors while the open vectors indicate their rotation into stream coordinate system defined by the thin black line. 
 
-![Pegasus_projection.jpeg](/assets/Pegasus_projection.jpeg)
+![Pegasus_projection.jpg](/assets/Pegasus_projection.jpg)
 
 This transformation showed that most of the eddy kinetic energy (EKE) associated with the Gulf Stream was caused by the shifting position and direction of the current. Viewed in stream coordinates the Gulf Stream looked surprisingly ‘stiff’ in terms of shape and size. This is no doubt a universal property of strong baroclinic currents. These data are over 40 years old, but they are still useful. Please contact me if you are interested in a copy. 
 
