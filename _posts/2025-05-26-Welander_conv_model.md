@@ -15,7 +15,7 @@ The left panel in the figure (copied from his paper) shows the model. A closed l
 
 Even though I don’t know if this model is experimentally realizable (take that as a challenge!), I like the way it communicates the role of buoyancy in a simple intuitive way. I’ve written the model in matlab and happy to share it if you like, just let me know. I can also show you the movie - it is way too long to include here. 
 
-Can the model be applied to any geophysical process? I don’t know. There was a time when I wondered whether it in some sense could be applied to the Dansgaard-Oescher events, but I doubt it since salt and ice are implicated in these. Nonetheless, their repetitive character suggests that a relaxation process of some kind is involved. 
+Can the model be applied to any geophysical process? I don’t know. There was a time when I wondered whether it in some sense could be applied to the Dansgaard-Oescher events, but I doubt it since salt and ice are implicated in these. Nonetheless, their roughly periodic character suggests that a relaxation process of some kind is involved. 
 
 - - - - -
 Welander, P., (1967). On the oscillatory instability of a differentially heated fluid loop. J. Fluid Mech., 29(1), 17-30.
