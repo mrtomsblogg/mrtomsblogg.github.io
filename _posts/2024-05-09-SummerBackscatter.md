@@ -1,5 +1,5 @@
 ---
-title: "The summer backscatter section."
+title: The summer backscatter section.
 mathjax: true
 layout: post
 categories: media
