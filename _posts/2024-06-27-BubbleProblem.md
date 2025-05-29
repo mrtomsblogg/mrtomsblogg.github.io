@@ -4,7 +4,6 @@ mathjax: true
 layout: post
 categories: media
 excerpt separator: <!--more-->
----
 
 As I wrote a few blogs ago, it was a rude awakening Charlie Flagg and I got when we put to sea on the Norröna in early January 2006. The ADCP was producing no useful data. It quickly became evident what the problem was, and we knew then and there it was going to be a major challenge: bubbles from the huge bow thruster openings blanketed the hull wiping out the acoustics. As I also wrote, Charlie saved the project with his plan to build a fairing that would deflect the bubbles around the ADCP aperture. Later on I contracted with a student to explore the possibility of creating a bubble-free spot with the help of chines. See Charlie’s website (listed below) for a detailed discussion of all those activities. These include the construction of a permanent fairing, using chines to create upwelling ahead of the ADCP, and the use of magnetically attached cameras to get a better grasp of the bubble issue. 
 <!--more-->
