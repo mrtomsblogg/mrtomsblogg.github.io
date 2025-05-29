@@ -1,8 +1,9 @@
 ---
-title: "The Norröna Project."
+title: The Norröna Project.
 mathjax: true
-ctegories: media
-excerpt separator: <!==true-->
+layout: post
+categories: media
+excerpt_separator: <!--more-->
 ---
 
 Little did we know about the whopping headaches that lay ahead when we started preparing for this project. The Norröna was the third commercially operated vessel to be instrumented with an acoustic Doppler current profiler. Her route was exceptionally strategic, operating out of the Faroes to Denmark and to Iceland, she crosses all warm water entering the Nordic Seas. We, Charlie Flagg and I, had previously instrumented the Oleander and Nuka Arctica, both container vessels, to measure poleward flow by the Gulf Stream system between New Jersey and Bermuda, and farther north by the North Atlantic Current between Greenland and Scotland. The Iceland-Faroe-Scotland choke point was an obvious next step. We had barely left the dock in Hamburg when the problems arose. 
