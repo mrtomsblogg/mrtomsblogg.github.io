@@ -1,5 +1,5 @@
 ---
-title: "Two lovely snapshots of acoustic backscatter."
+title: Two lovely snapshots of acoustic backscatter.
 mathjax: true
 layout: post
 categories: media
