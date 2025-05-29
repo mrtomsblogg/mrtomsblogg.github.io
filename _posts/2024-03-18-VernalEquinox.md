@@ -1,5 +1,5 @@
 ---
-title: "March 19, 2024 may be Vernal Equinox, but…"
+title: March 19, 2024 may be Vernal Equinox, but…
 mathjax: true
 layout: post
 categories: media
