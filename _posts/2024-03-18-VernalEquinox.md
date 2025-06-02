@@ -3,7 +3,7 @@ title: March 19, 2024 may be Vernal Equinox, but…
 mathjax: true
 layout: post
 categories: media
-excerpt separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 We’ve always known that the seasonal cycle lags the length of the day. But by how much? To find out I fit a sinusoidal curve to the monthly average daytime highs for Providence, RI  assigning the average temperature to the 15th of each month. The fit was rather tight with a 0.34°C standard deviation. The annual average = 15.66°C ranging from 3.26°C (Jan. 22) to 28.06°C (July 24). While solar equinox is 11:06 PM March 19 this year, we must wait another full 5 weeks until ‘thermal equinox’ on April 24. Is there a word for this day?
