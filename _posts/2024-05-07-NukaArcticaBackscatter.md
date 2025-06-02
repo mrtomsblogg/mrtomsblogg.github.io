@@ -1,11 +1,10 @@
 ---
-title: Two lovely snapshots of acoustic backscatter.
+title: Two lovely sections of acoustic backscatter.
 mathjax: true
 layout: post
 categories: media
-excerpt separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
-
 The reason acoustic Doppler current profilers (ADCP) work, whether on moorings or on ships, is thanks to the kind cooperation of zooplankton and fish populations that inhabit the ocean. These little fellows echo back the acoustic signals emitted from the ADCP, and it is from the Doppler shift in frequency of the echo one can determine the relative velocity between the instrument and the zooplankton. But here’s the thing, besides measuring the Doppler shift, the strength of the received echo is also recorded, this is a huge cache of information we pay little attention to (or don’t know how to use). But, for now at least, they allow for pretty pictures, here’s a wonderful example. 
 <!--more-->
 
