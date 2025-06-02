@@ -1,9 +1,9 @@
 ---
-title: "An illustration of planetary wave motion."
-mathjaxx: true
+title: An illustration of planetary wave motion.
+mathjax: true
 layout: post
 categories: media
-excerpt separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 Imagine you are looking at a tank of water on a rotating table. The water is at rest in the tank, meaning it is rotating at the same rate as the table. Now increase the rate of rotation of the table slightly. Relative to the table the water is now moving backwards by the same about since it doesn’t know that the table is spinning faster, it continues to spin as before. We have a similar situation on our rotating planet. While the planet has a 24-hour rotation period, ocean currents respond to the component of rotation in the same direction as gravity. The effect of planetary rotation is therefore strongest at the poles, and absent at the equator; it varies as the sine of latitude. In oceanographic terms this means that if a fluid parcel is displaced poleward where the effect of rotation is stronger, the fluid parcel not knowing this, will begin to rotate clockwise. This is exactly what happened to a cluster of floats in polyMODE. 
