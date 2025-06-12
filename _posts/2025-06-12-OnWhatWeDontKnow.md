@@ -1,0 +1,27 @@
+---
+title: A word on what we don’t know! 
+mathjax: true
+layout: post
+categories: media
+excerpt_separator: <!--more-->
+---
+
+The other day a colleague asked me for an example of what we don’t know about the ocean. I immediately replied ‘how about the abyssal circulation’. His face suggested I couldn’t be serious, so I backed off and admitted that we know a fair amount about fluid pathways. From the early expeditions mapping out the temperature, salinity, and oxygen fields we know the spreading of water masses from polar regions. The same is true from the spreading of various tracers such nutrients, freons and radioactive isotopes. But these distributions result from a combination of advective, stirring and mixing processes; it is not easy to unravel the how these contribute to what we observe. 
+<!--more-->
+
+We are of course hostages to our past – we have used hydrography in all its powerful forms to describe the state of the ocean. Think of the grand expeditions of the past, think of the decadal go-ship surveys of today, and of the impressive global Argo program. But these programs are not designed to tell us what the ocean is doing, or its action to use another word. There is a good reason for this, measuring currents - its action - is a very costly affair. Consider just the surface circulation. Thanks to satellite altimetry we can map out the surface circulation and its variability in astonishing detail. While this information is freely available we should be mindful of the enormous investment in planning, development and operational cost of the satellite systems that made these data flows possible. But there’s a limitation, satellites can’t see below the surface! We try to get around this by coupling altimetry and hydrography to geostrophically map currents at depth, but this is a very challenging task because of the mismatch between the high-resolution altimetry and very low-resolution Argo. In short, we can’t. Models provide a means for bringing diverse data sets together, but it’s my understanding is that they still have problems at depths comparable to the main thermocline and deeper due to the lack of information on the deep pressure field. So my point remains the same, we know very little about the deep circulation of the ocean. 
+
+There is little doubt we can do far better, but to do so requires that we mobilize ourselves to address the challenge. Just as the space agencies have a mandate to probe Earth from space, we need a mandate to reach into the water column. Merchant marine vessels serve very effectively as sea-surface ‘satellites’ or platforms for instrumentation such as XBTs and acoustic Doppler current profilers, and a few people and groups are doing this today. But they work with ‘off-the-shelf’ equipment, not with sensors and systems developed and optimized for MM-use. 
+
+Imagine we are tasked to profile currents to great depths, that we put our minds together to explore what modern technology could create. I touched on this in an earlier blog-post. The January 15, 2024 post discusses potential technologies for scanning currents to greater depths. This would be revolutionary. Repeat sampling of deep ocean currents from vessels in regular traffic would enable us to quantify their statistical properties and identify trends over longer time scales. We wouldn’t be able to map currents as satellites see the surface, but we could identify flow structures along select routes. As ships cross the mid-Atlantic ridge at various latitudes for example, we could obtain firm numbers on transports along its slopes. Except for a very few instrumented sites, we have very little hard information on deep flows, and it is very costly to keep even these few sites instrumented. Indeed, the groups that do that should be commended! The deep velocity field is largely barotropic which means that we will have much improved measures of the deep pressure field along these routes, information that I imagine would be helpful in constraining numerical syntheses of ocean currents even outside the vessel routes. But this will only be possible when we can profile currents to greater depths. 
+
+The April 22, 2024 post asks if it possible to develop low-cost XCTDs, probes that profile conductivity in addition to temperature. I have zero doubt that this is possible. The major use of such probes would be to couple these with the ADCP to determine heat and salt fluxes in the upper ocean. There is less need to profile into the deep waters that Argo cover. As the technical know-how improves, perhaps it will become possible for XCTDs to profile T and S in deep western boundary currents, say, but that will require accuracy to the 3rd decimal point in both T and S. Focusing on the upper ocean, the variability of these properties is such that two decimals would be more than adequate. 
+
+Imagine being able to determine property fluxes directly. The advantage is that fluxes determine future states. So instead of waiting until a change in state becomes evident, flux measurements give you a heads-up on where the system is headed. An approach along these lines would be effective if you think freshwater run-off from Greenland is a serious issue. The same applies to the Nordic Seas overturning. 
+
+In my mind, this is all very possible, all that is needed is the will and a mandate to partner with the merchant marine to scope out the deep ocean. 
+
+
+ 
+
+
