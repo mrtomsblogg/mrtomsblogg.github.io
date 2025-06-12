@@ -3,7 +3,7 @@ title: “External ADCPs? "
 mathjax: true
 layout: post
 categories: media
-excerpt separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 This may sound crazy, but I wonder if we couldn’t take advantage of the planar structure of modern ADCPs and mount the whole thing external to the hull rather than have to machine and weld in an expensive sea chest and coffer dam to house the ADCP as we do today? It would be less costly and potentially easier to service if necessary. 
