@@ -1,5 +1,5 @@
 ---
-title: A mixed layer conundrum.
+title: A mixed-layer conundrum.
 mathjax: true
 layout: post
 categories: media
