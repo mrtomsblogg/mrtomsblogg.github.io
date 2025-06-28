@@ -1,5 +1,5 @@
 ---
-title: The mixed layer as seen by the Oleander.
+title: The mixed-layer as seen by the Oleander.
 mathjax: true
 layout: post
 categories: media
