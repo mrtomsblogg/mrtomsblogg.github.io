@@ -11,7 +11,7 @@ As you know, the Oleander program to scan upper ocean currents between Bermuda a
 
 Take a look at this fantastic archive of all earlier Oleander sections superimposed on SSH maps from Copernicus. It was prepared by Eric Firing and is publicly available: 
 
-https://urldefense.com/v3/__https://currents.soest.hawaii.edu/oleander/vel_ssh_old/index.html__;!!Jh1S!jY3JPDrPc_0fVuwlc-BHYMfIZ1ebP8k8NWUgac1ks9lDCbHIX3Yw6pPB1NLNU9adtRIIOvPLh7z4pubi0A$
+https://currents.soest.hawaii.edu/oleander/vel_ssh_old/index.html
 
 The eye is of course drawn to the Gulf Stream. The left panels show vectors on SSH maps. The panels to the right show the velocity components in the NE (normal to section, top) and NW (parallel to section, bottom) directions. For the most part they align rather well, but there is no reason this should be perfect for the velocity vectors are instantaneous whereas the maps are based on optimal interpolation of SSH measurements with a 10-day repeat rate. I still find it rather fascinating to realize that all water heading north in the Atlantic does so here in the Gulf Stream: not only is it the ‘classic’ western boundary current for the wind-driven circulation, it also includes the upper limb of the Atlantic meridional circulation. 
 
