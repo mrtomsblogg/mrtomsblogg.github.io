@@ -1,0 +1,16 @@
+---
+title: Another AMOC paper.
+mathjax: true
+layout: post
+categories: media
+excerpt_separator: <!--more-->
+---
+
+Ever wonder how many ocean/climate modeling centers there are around the globe? I haven’t a clue but in this new publication - DOI 10.1088/1748-9326/adfa3b – I learned that 53 different modeling centers participate in what is known as the coupled model intercomparison project (CMIP)6. Wouldn’t it be great if we had a similar level of international commitment to sustained ocean observation? But sustained observation costs and doesn’t make headlines. 
+<!--more-->
+
+For example, take the title of the paper in the above link: ‘Shutdown of northern Atlantic overturning after 2100 following deep mixing collapse in CMIP6 projections.’ It’s an accurate title, but when the daily press picks up on this and writes a feature article, you might be led to think we have a major problem, but in fact – just as the title indicates - this is just a numerical modeling study. This and other papers like it are important exercises, but they are not predictions of future climate, at best they are possible scenarios. Common to them seems to be an ambition to show that the AMOC will collapse; in one case quite soon(!): (https://www.nature.com/articles/s41467-023-39810-w). Virtually all papers focus lean on surface temperatures and the warming hole of the subpolar North Atlantic. None of them consider the Nordic Seas. This is astonishing given its role to the climate of central and northern Europe. We know that during glacial times production of North Atlantic Deep Water via overflow from the Nordic Seas must have ceased since the entire Atlantic from the Antarctic to the subpolar North Atlantic was filled with Antarctic bottom water up to nearly 2 km depths. If there is no overflow from the Nordic Seas, there will be no import of warm salty water to the Nordic Seas leading to a collapse of the mild European climate. I believe this is the scenario people are worried about: https://web.uri.edu/gso/uncategorized/rossby-when-the-gulf-stream-was-commandeered/. 
+
+During glacial times the Gulf Stream flowed essentially straight east (like the Kuroshio in the Pacific does today). Its meandering will lead to loss of warm salty water to a much expanded subpolar North Atlantic where in winter it will sink to depths 1-2 km depths and flow south as a shallow AMOC that is largely confined to the Atlantic. This differs from the cold deep North Atlantic water that spreads out into the global ocean: it originates in the Nordic Seas. The point is that in terms of glacial-interglacial climate variability we focus too much on the wrong branch of the AMOC. 
+
+The warming hole is conspicuous, but to couple that to a slow-down of the AMOC seems like a stretch. The 50–80-year period for which we have pretty strong evidence for a stable AMOC is long enough to refute this idea. My own guess is that warming hole results from Greenland ice melt. While the rest of the subpolar gyre is warming the stable temperature in the warming hole reflects is a consequence of 0°C melting point of ice, which won’t change in a warming world. But how this melt water gets to and maintains the warming hole isn’t clear to me, much less have I understood why it must reflect an impending AMOC disaster. 
