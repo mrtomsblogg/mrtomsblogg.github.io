@@ -21,7 +21,7 @@ The mean velocities are small (black line = 5 mm/s). The average and standard de
 
 The figure has a lot of information. Notice how floats over the EPR move north along, not across the ridge whereas floats away from the ridge exhibit zonal motion. East of the EPR two floats suggest a southward drift there. Floats peel off from the ridge to the west with floats north of 15°S showing a clear drift to the west. Also floats at ~22°S show a distinct westward drift. The few floats between 15 and 20°S suggest a region of weak zonal flow that may reflect the dynamics of the He-3 plume. I say this in light of the Hautala-Riser analysis of the float vectors. But there is another message here.
 
-The ensemble of displacement vectors is like conducting a geochemical tracer study with the advantage that the tracer has an accurate clock built-in. With each float serving as a ‘radioactive molecule’, imagine the tracer studies clusters of drifters (no acoustics) would enable us to conduct. The ensemble drift gives us mean flow while the spread of the vectors informs us about eddy activity. More on this in the next post. 
+The ensemble of displacement vectors is like conducting a geochemical tracer study with the advantage that the tracer has an accurate clock built-in. With each float serving as a giant ‘radioactive molecule’, imagine the tracer studies clusters of drifters (no acoustics) would enable us to conduct. The ensemble drift gives us mean flow while the spread of the vectors informs us about eddy activity. More on this in the next post. 
 
 
 - - - - -
