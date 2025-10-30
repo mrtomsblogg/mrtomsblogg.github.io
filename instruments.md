@@ -12,10 +12,17 @@ title: Instruments
 *Evans, D., H.T. Rossby, M. Mark and T. Gytre.  YVETTE-a free fall shear profiler.  Deep-Sea Res., 26, 703-718, 1979.*
 <p><br>Schematic view of Yvette. The sensors at the lower end consist of a pair of orthogonal Trygve Gytre acoustic current meters, and a Neil Brown CTD. As it sinks the current meters measure velocity relative to average motion of the near 6 m long tube. Dave Evans developed an inverting algorithm to estimate vertical shear to scales roughly 10x greater than the instrument. Knowing shear and density gradient we can determine the Richardson number from about .5 to 50 m in the vertical, a very useful range of scales.</p>
 
+
 # The Pegasus profiler
 ![Pegasus Profiler](/assets/PegasusProfiler.png)
 *Spain, P.F., D.L. Dorson and H.T. Rossby.  PEGASUS:  A simple, acoustically tracked velocity profiler.  Deep-Sea Res., 28, 1553-1567, 1981.*
 <p><br>The Pegasus principle of operation is very straightforward: As it sinks and ascends it measures the travel time of acoustic pings from bottom beacons (or round-trip travel times to transponders). From those slant distances together with its depth (from pressure) we can determine from its trajectory the strength of the currents at all depths. Originally developed to study the Somali Current in 1979, it was used in a number of studies in the 1980s.</p>
+
+
+# Pogo
+![Pogo](/assets/Pogo.jpg)
+<p><br>We designed Pogo to serve as a simple means to measure transport. Forgoing the details about the velocity profile, the function of this simple instrument is to sink to a predetermined depth, drop ballast and return to the surface to get the displacement vector at the surface between start and finish. That distance divided by elapsed time is vertically averaged velocity. Pogo consisted of a glass pipe with a flasher, a radio beacon and a 12 kHz pinger. The arrival time of the pings gives us distance, and the radio (using a radio direction finder) or flasher (visually at night) gives us direction. When Pogo surfaces we immediately note the ship’s position and get a vector to it. The challenge was to be close by when it surfaced so we spot it right away to determine its position with a minimum of uncertainty. The photo shows Ed Levine and Terry Rago with the POGO. Small vanes (hard to see) on the white flotation collar causes Pogo to rotate as descends and ascends. This ensures that any tendency for it to kite (slip sideways) is averaged out. The principle of operation is exactly the same as that of the Dropsonde used so successfully by Bill Richardson and Bill Schmitz in the Florida St in the 1960s. 
+
 
 # The SOFAR float
 ![SOFAR float](/assets/SOFAR_float.png)
