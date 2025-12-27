@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 Two years ago, I wrote a post called Tracks in the sea where I showed the incredibly tight control bathymetry exerted on the movement of RAFOS floats deployed on the northern slope of the Iceland – Faroe ridge. The floats, deployed by Dr. Henrik Søiland (Bergen, Norway), were ballasted to drift at about 700 - 800 m depth. The floats in waters deeper than 1750 m (14 floats) turned northeast into the Norwegian Sea while 8 floats deployed in shallower water without fail turned south into the Faroe-Shetland Channel (see the figure in the Dec 9, 2023 post). But I didn’t mention what happened to those floats…
 <!--more-->
 
-![Iceland_Basin_floats.jpeg](/Iceland_Basin_floats.jpeg)
+![Iceland_Basin_floats.jpeg](/assets/Iceland_Basin_floats.jpeg)
 
 They all wend their way south through the Faroe-Shetland Channel and emerge into the Iceland Basin via the Faroe Bank Channel just above the 800 m sill depth. The warmer, less dense Iceland Basin water caused the floats to sink from ~750 m and -0.5°C to roughly 900 m and 4-6°C temperatures. The floats were ‘out of view’ for ~50 days for an 8 cm/s average speed through the channel indicated by the black dashed line in the figure. The pressure record shows 3-4 floats exhibited a huge 200 m shoaling to ~600 m, the sill depth of the Sir Wyville Thomson Ridge, so is it possible some of these could have left (‘sucked out of’) the channel that way (indicated by the red dashed line)? We had two sound sources in the Iceland Basin so as soon as the floats began hearing the sources tracking could resume. The attached figure shows their subsequent movements. They reveal the substantial constraint topography imposes on the cyclonic circulation around the basin. 
 
