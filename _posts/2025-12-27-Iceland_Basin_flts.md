@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
  
 Two years ago, I wrote a post called Tracks in the sea where I showed the incredibly tight control bathymetry exerted on the movement of RAFOS floats deployed on the northern slope of the Iceland – Faroe ridge. The floats, deployed by Dr. Henrik Søiland (Bergen, Norway), were ballasted to drift at about 700 - 800 m depth. The floats in waters deeper than 1750 m (14 floats) turned northeast into the Norwegian Sea while 8 floats deployed in shallower water without fail turned south into the Faroe-Shetland Channel (see the figure in the Dec 9, 2023 post). But I didn’t mention what happened to those floats…
-!--more-->
+<!--more-->
 
 ![Iceland_Basin_floats.jpeg](/Iceland_Basin_floats.jpeg)
 
