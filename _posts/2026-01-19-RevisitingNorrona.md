@@ -7,10 +7,11 @@ excerpt_separator: <!--more-->
 ---
  
 It was 20 years ago this month that Charlie Flagg and I started the Norröna project – and what a project it was! With funding from the National Science Foundation and with the terrific support from Mr. Jógvan i Dávastovu, the master, and technicians onboard we had just installed a 75 kHz acoustic Doppler current profiler (ADCP) in the hull almost halfway back from the bow, the recording instrumentation in a electronics room behind the bridge, and a GPS-compass antenna system topside. Our objective was to measure the flow of warm water into the Nordic Seas between Shetland, the Faroes and Iceland – the important Nordic Seas branch of the Atlantic meridional overturning circulation (AMOC).
-!--more-->
+<!--more-->
 
-![Norrona_eve_view.jpg](/Norrona_eve_view.jpg)
 Believe it or not, the equipment worked perfectly as soon as we sailed. That was the good news. The nightmare that immediately descended upon us were the train of bubbles blocking the ADCP acoustics. Skipping the details, it took 3 years before we started to get data returns in sufficient volume to be scientifically useful. We also installed an AXIS, an autonomous XBT launching system.  This combination enabled us to get weekly sections of currents and monthly sections of temperature along both openings to the Nordic Seas – data we have used in numerous studies. 
+
+![Norrona.png](/Norrona.png)
 
 If I could dial the clock back with the knowledge we have gained, I’d make every effort to restart the project. I am convinced that by positioning the ADCP near the centerline just behind the bow thrusters openings (the source of bubble-drawdown), we can avoid the bubbles and get first-class ADCP data. If bubbles are still an issue, we could use a fairing or chines, but experience from the CV Oleander leads me to think this may not be necessary. 
 
