@@ -25,7 +25,7 @@ The final figure shows the annual cycle, which is much larger for ERA5 than Glor
 
 ![Mean_annual_cycle.pdf](/assets/Mean_annual_cycle.jpeg)
 
-This work will not be published but I have a .pdf file with more information about the analyses if you are interested or want explore this further. You can reach me at trossby@uri.edu. 
+This work will not be published but I have a .pdf file with more information about the analyses if you are interested or want to explore this further. You can reach me at trossby@uri.edu. 
 
 
 
