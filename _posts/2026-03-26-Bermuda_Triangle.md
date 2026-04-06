@@ -25,6 +25,8 @@ The final figure shows the annual cycle, which is much larger for ERA5 than Glor
 
 ![Mean_annual_HF_cycle.pdf](/assets/Mean_annual_HF_cycle.jpeg)
 
+What does this suggest with respect to a possible Jacksonville - Bermuda operation? First and foremost, establish an XBT operation - at least monthly and perhaps in the beginning biweekly to build up an initial dataset that can inform us about variability on faster time scales. We will want to measure currents directly for although the Gulf Stream appears to be quite stable here, we don’t know how well altimetry can reproduce the current here, not to mention the mean flow offshore of the Gulf Stream. Does the Antilles current reach this far north to join the Gulf Stream (is it seasonal)? Farther offshore the mean flow is weakly to the south (what Joe Reid years ago referred to as the C-shaped circulation). There is so much to be learned! 
+
 This work will not be published but I have a .pdf file with more information about the analyses if you are interested or want to explore this further. You can reach me at trossby@uri.edu. 
 
 
