@@ -23,7 +23,7 @@ The area averaged heat loss = -92 W/m2. I did not expect them to agree this clos
 
 The final figure shows the annual cycle, which is much larger for ERA5 than Glorys12. This may be because the atmospheric and satellite data are far more complete than the data available for the Glorys12 reanalysis (largely limited to sea surface height and the occasional Argo profile). Is there a way of knowing if Glorys12 uses the extensive multi-year Oleander XBT data set? 
 
-![Mean_annual_cycle.pdf](/assets/Mean_annual_cycle.jpeg)
+![Mean_annual_HF_cycle.pdf](/assets/Mean_annual_HF_cycle.jpeg)
 
 This work will not be published but I have a .pdf file with more information about the analyses if you are interested or want to explore this further. You can reach me at trossby@uri.edu. 
 
