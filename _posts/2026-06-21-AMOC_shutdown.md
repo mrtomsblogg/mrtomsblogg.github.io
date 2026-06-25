@@ -17,6 +17,8 @@ Instead, it is the cessation of warm water flow toward the Nordic Seas that will
 
 The AMOC turns ‘off’ when the overflow water no longer has a density extremum that enables it to slide along the bottom as a DWBC. This can result from either the warming of the Nordic Seas or reduced salinity due to ice melt or both. As of now the rate of outflow of dense water and its density remain stable. But let’s suppose the density of the overflow water decreases and loses its identity such that it mixes with subpolar water instead of sliding to greater depths as a flow along the bottom. As with water from the Irminger Sea, it will be blocked at Cape Hatteras. This the key point, unless the overflow is sufficiently dense that it can leave the subpolar North Atlantic by sliding along the bottom under the Gulf Stream there will be no demand for warm water entering the Nordic Seas to replace the overflow. To put it differently, the nearest source of warm salty water is the Gulf Stream. But it isn’t available unless we export a matching amount of cold water at depth that isn’t blocked by the Gulf Stream, i.e., as a DWBC.
 
+A well-documented consequence of shutting down the supply of water from the Nordic Seas is that the entire deep half of the Atlantic from the far south to the Greenland-Iceland-Scotland ridge is filled with dense water from the Antarctic.
+
 - - - - -
 Chafik, L. and T. Rossby (2019). Volume, heat and freshwater divergences in the subpolar North Atlantic suggest the Nordic Seas as key to the state of the meridional overturning circulation.  Geophys. Res. Lett.,46,   https://doi.org/10.1029/2019GL082110
 
