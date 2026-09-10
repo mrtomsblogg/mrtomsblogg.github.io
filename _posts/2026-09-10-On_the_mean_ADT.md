@@ -1,3 +1,6 @@
+<p style="text-align: left;">
+  This text uses inline CSS to ensure a ragged right alignment.
+</p>
 ---
 title: On the mean absolute dynamic topography.
 mathjax: true
