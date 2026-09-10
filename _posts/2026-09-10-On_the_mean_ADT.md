@@ -1,6 +1,3 @@
-<p style="text-align: left;">
-  This text uses inline CSS to ensure a ragged right alignment.
-</p>
 ---
 title: On the mean absolute dynamic topography.
 mathjax: true
@@ -20,7 +17,9 @@ In the previous post where we estimated the depth of the level of zero transport
 
 To bring the black transport curve in the previous post into alignment with the other two estimates, i.e. to the green curve, would require reducing the Slope-Bermuda ADT difference by about 0.05 m. While it is only the difference that matters, most of the correction should probably be applied to Slope with its large cross-slope gradient. but the relationship of mean ADT between Bermuda and Slope also depends upon the accuracy of the mean surface velocity field between the two. Getting this right is not a trivial exercise due to a vigorous seasonal cycle of winds, temperature and precipitation across the region.
 The uncertainties in the mean ADT notwithstanding, ADT is an incredibly powerful for mapping surface currents. Please visit this website: 
- https://urldefense.com/v3/__https://currents.soest.hawaii.edu/oleander/vel_ssh_quick/index.html__;!!Jh1S!nfnRxX5f_tJycpKcOc2E78KhxU7cyG5Lxe8NMksHYAr8_rTBmVfhVzogHtdTSbQaBghygO9Jom2M3RBykA$
+
+ https://urldefense.com/v3/__https://currents.soest.hawaii.edu/oleander/vel_ssh_quick/index.html__;
+ !!Jh1S!nfnRxX5f_tJycpKcOc2E78KhxU7cyG5Lxe8NMksHYAr8_rTBmVfhVzogHtdTSbQaBghygO9Jom2M3RBykA$
 
 It shows the *Oleander* surface velocity vectors superimposed on the concurrent map of surface ADT from *Copernicus Marine Service*. These figures show how vessels in repeat traffic can work together with altimetry to a) provide spatial context, b) ground truth about the inferred surface velocity field and most importantly, c) to extend our vision into the water column. Even if we knew the dynamic height profiles throughout the ocean (which we don’t due to the large spatial and temporal separation between Argo float profiles), we wouldn’t be able to construct a dynamic height field accurate enough to give useful information about the weaker currents at depth. That is what has made the sustained ADCP observations on the *Oleander*, the *Explorer of the Seas*, *Nuka Arctica*, *Norröna*, and the *Laurence M. Gould* so incredibly useful. The point is that a single ADCP on these vessels, operating 24/7 on repeat routes for years on end, has opened up horizontal-vertical-time domains for study that cannot be explored with any of our traditional oceanographic methods. 
 
