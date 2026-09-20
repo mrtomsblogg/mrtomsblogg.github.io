@@ -19,7 +19,7 @@ The beauty of measuring GS transport is that it captures all water flowing polew
 While the GS captures all water flowing poleward, it doesn’t tell us how much is Gyre and how much is AMOC. In our 2022 paper we used geostrophy to estimate the volume transport south between Bermuda and Africa as our measure the Gyre. A more direct and cost-effective method might be to establish a program to capture all water flowing north in the North Atlantic Current east of the Grand Banks where it is a narrow stable western boundary current. This can be done quite effectively with ADCP-equipped merchant marine vessels. We’ve written about this before. 
 
 - - - - -
-Andres, M. et al. (2025). Monitoring impacts of the Gulf Stream and its rings on the physics, chemistry, and biology of the Middle Atlantic Bight shelf and slope from the CMV Oleander.  **Oceanography 38(Supplement 1):54–60. https://doi.org/10.5670/oceanog.2025e108.
+Andres, M. et al. (2025). Monitoring impacts of the Gulf Stream and its rings on the physics, chemistry, and biology of the Middle Atlantic Bight shelf and slope from the CMV Oleander. *Oceanography* 38(Supplement 1):54–60. https://doi.org/10.5670/oceanog.2025e108.
 
 Rossby, T., C. Flagg, K. Donohue, S. Fontana, R. Curry, M. Andres, and J. Forsyth, (2019). The Oleander is more than a flower: Twenty-five years of Oceanography aboard a merchant vessel. *Oceanography*, 32(3), 82-95.
 
