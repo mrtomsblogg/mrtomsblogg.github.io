@@ -1,5 +1,5 @@
 ---
-title: Oleander_literature.
+title: Oleander literature.
 mathjax: true
 layout: post
 categories: media
