@@ -11,11 +11,11 @@ When Charlie Flagg and I started the Oleander project our focus was on Gulf Stre
 
 ![Scientific_Impacts_Oleander.pdf](/assets/Scientific_Impacts_Oleander.pdf)
 
-If the graph doesn’t display click on this link: (https://bios.asu.edu/oleander/scientific-impact) 
+If the graph doesn’t display click on this link: https://bios.asu.edu/oleander/scientific-impact 
 
 In addition, the NOAA monthly XBT sections, which started in 1977, have become a tremendous archive of temperature across the shelf and Slope waters in the early years - later expanding to the entire distance from New Jersey to Bermuda. In fact, it was when we learned from the NOAA/NMFS/XBT group that a new *Oleander* was being built that Charlie and I explored the possibility of installing an ADCP in the vessel. The Bermuda Container Line was very receptive to the idea. 
 
-The publications list from all Oleander data comprises currently 66 papers and thousands of citations: (https://bios.asu.edu/oleander/publications).
+The publications list from all Oleander data comprises currently 66 papers and thousands of citations: https://bios.asu.edu/oleander/publications
 
 And yet there are numerous topics that haven’t explored or can be revisited thanks to the new and far more comprehensive data base. This includes zooming in on the frontal potential vorticity structure of the GS by combining velocity with the monthly high-resolution XBT sections. 
 
@@ -23,4 +23,4 @@ Another topic of interest might be reverse geostrophy, that is to infer density 
 
 A topic that remains largely untouched is acoustic backscatter. We see of course the diurnal migration of zooplankton and myctophids, but there so much more to learn about seasonal variations as well their distribution across the different water masses from north to south as well as within various dynamical features. 
 
-The Oleander dashboard gives daily near real-time information of currents, surface water properties and weather: (https://sciencerocs-dev.whoi.edu/ol_index.html). We now have high resolution weather and sea surface conditions. Anyone who has worked in the GS knows how rapidly conditions can change when crossing the thermal front. These twice-weekly crossings will enable detailed studies air-sea interactions at strong fronts, how winds affect the surface velocity field and vice versa. There is so much to be explored and understood!
+The Oleander dashboard gives daily near real-time information of currents, surface water properties and weather: https://sciencerocs-dev.whoi.edu/ol_index.html  We now have high resolution weather and sea surface conditions. Anyone who has worked in the GS knows how rapidly conditions can change when crossing the thermal front. These twice-weekly crossings will enable detailed studies air-sea interactions at strong fronts, how winds affect the surface velocity field and vice versa. There is so much to be explored and understood!
